@@ -4,9 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: WebBuild
-    url: https://webbuild.js.org
+    url:  https://webbuild.js.org
   - name: Countdowns
-    url: https://fiftys7vencode.github.io/countdowns
+    url:  https://fiftys7vencode.github.io/countdowns
+  - name: Portfolio
+    url:  https://fiftys7vencode.github.io
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,7 +21,7 @@ status-website:
   introMessage: This page shows statuses of all my projects real-time.
   navbar:
     - title: Status
-      href: /upptime
+      href: https://fiftys7vencode.github.io/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
