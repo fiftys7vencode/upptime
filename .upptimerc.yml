@@ -7,8 +7,6 @@ sites:
     url:  https://webbuild.js.org
   - name: Countdowns
     url:  https://fiftys7vencode.github.io/countdowns
-  - name: Portfolio
-    url:  https://fiftys7vencode.github.io
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
