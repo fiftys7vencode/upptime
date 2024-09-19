@@ -4,18 +4,20 @@
     "url": "https://webbuild.js.org",
     "icon": "https://icons.duckduckgo.com/ip3/webbuild.js.org.ico",
     "slug": "web-build",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 244,
-    "timeWeek": 232,
-    "timeMonth": 232,
-    "timeYear": 232,
-    "dailyMinutesDown": {}
+    "time": 239,
+    "timeDay": 284,
+    "timeWeek": 247,
+    "timeMonth": 239,
+    "timeYear": 239,
+    "dailyMinutesDown": {
+      "2024-09-19": 0
+    }
   },
   {
     "name": "Countdowns",
